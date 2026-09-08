@@ -39,5 +39,5 @@ collects code, simulation work and measurement results.
   generated programmatically in KLayout and GDSPy
 - **Kinetic inductance detection via resonator frequency shift** - modelled
 and analysed how DUT kinetic inductance changes shift resonator response
-- **Coulomb Blockade Thermometry**
-- **Copper Electroplating**
+- **Coulomb Blockade Thermometry** - Fabricating primary thermometry temperature sensor
+- **Copper Electroplating** - Thick film deposition to improve electron thermalisation in nanoelectronic devices
