@@ -8,9 +8,7 @@ Nanofabrication · Nanoelectronic devices
 
 ---
 
-I fabricate nanoelectronic devices in the Micronova cleanroom and design
-circuits through simulation and scripted layout. This repository
-collects code, simulation work and measurement results.
+Research Assistant at Aalto University and Master's student in Engineering Physics, specializing in nanofabrication of nanoelectronic devices. Hands-on experience across the full cleanroom process flow - lithography, thin-film deposition, etching and electroplating — with licensed tool operation in the Micronova cleanroom. Work focuses on fabrication process development for nanoelectronic devices, combining hands-on cleanroom work with EM simulation and Python-driven design. Have experience in device characterization, process optimization and translating simulation results into fabrication-ready designs. I Enjoy solving practical process challenges and turning research methods into repeatable and reliable results. This repository collects code, simulation work and measurement results.
 
 ---
 
