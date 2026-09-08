@@ -18,7 +18,7 @@ collects code, simulation work and measurement results.
 
 **[Cleanroom Work](Nanofabrication)** — fabrication process notes, characterisation and metrology  
 **[Design](Design)** — KLayout and GDSPy scripted layouts, photomask design  
-**[Multiphysics Simulation](Multiphysics-Simulation)** — COMSOL and Sonnet EM,thermal and structural modelling 
+**[Multiphysics Simulation](Multiphysics-Simulation)** — COMSOL and Sonnet EM,thermal and structural modelling  
 **[Python](Python)** — Scientific Computing  
 **[MATLAB](MATLAB)** — numerical analysis  
 **[VHDL](VHDL)** — digital logic design and synthesis  
