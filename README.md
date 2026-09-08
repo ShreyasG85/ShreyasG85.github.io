@@ -22,7 +22,7 @@ collects code, simulation work and measurement results.
 **[Python](Python)** — Scientific Computing  
 **[MATLAB](MATLAB)** — numerical analysis  
 **[VHDL](VHDL)** — digital logic design and synthesis  
-**[Electronics & Prototyping](Electronics & Prototyping)** — electronics bench work & mechanical prototyping
+**[Electronics & Prototyping](Electronics-Prototyping)** — electronics bench work & mechanical prototyping
 
 ---
 
